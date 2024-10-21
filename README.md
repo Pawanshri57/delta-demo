@@ -1,2 +1,2 @@
 # delta-demo
-this is my apna college class demo
+this is my apna college class demo.
